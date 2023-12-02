@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://doc-00-44-docs.googleusercontent.com/docs/securesc/iaf4oj5mendfc61a7a0t8pnur8ch2j5q/b7fs5jbda603lrq16bktg04kt3abcka6/1701542700000/13643406269968942413/13643406269968942413/12p3OHxeo1xU7_EdkUY7poRlTVTijaeNC?e=view&ax=AEqgLxliLGhZrFQszJxYXGujEIyK3LRRbYHkGEKXOVRe3hLUiWwZIGATHe9jbhYqg2ufSN7nRMqxBiHCLJNruXhcn53STUDsj7uSsozqwgRGPMloDqDoqjzdF-XfPvQic333-z0JYK7e04Mh8Tcn753PSarm3ymUco6f6cAIQRu6YA61EjkSzm9hiPO072RIwdoMv8saxFr-eUBqMRvzquxsylkNfYL0cEQAPyptx3MDzKOelLO6vVBvZxxWk_mSch-sJzxq5DGhNjAoRUK9mcf-vhw8VVspL-vc4NxOB21hMbYJTWUZxFWRJGi2bGolIGK3EPz29SGqluIMBnDUkQz1f-_5Xg-tf09-xGU3G6cvWyBHkknsWqVEIvG0jFxJ7ootG-zsitcupD5dcd0B_fFzyJgqwh3KfKN6p9fXkYqHJchLGRHLk9xb9b5D1KraQKrhG0w24TlRwUNWQa2MomDW8HorL8axLIYoq8Lw9Yqs7vzR1RKDUTsAM6jgF6wntRjGCb6iKK7dZwuJCJcog_xD1wyNhBtFpaatJV3mMZ7MFyVxIiN070B4OT0ac5CnrQzLkSdsYSBzf6lzSemHUuZ4dphD-wiB5a5dTMENRdwSETM3ka4fzaTvX9-82Xx6pXJ98ADXpqzgHm3jnpcI6y_nZP3wikaLqCs6BVLHWWH_lngI3Idxu_dWH_4YAiQF7Sekrdx48iV4EThxN9qOdK6M7ns0qmPGgmMB-H0rIbBH6Pm5AJLXHrzHtFOHJdEXycgWTJ_SU-XDhWSlJFKK4myxcagyIdGYu3eZZk3iSx22O1TJKi8ZjBJYFHyaD129CnRYJcXfNCjm2udMpsU0TdVvHsUgi8Oym8jexRvcgA62y4o&uuid=4e08e724-69e9-4409-a08a-3821c179c92a&authuser=0</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.habby.archero</string>
+				<key>bundle-version</key>
+				<string>5.5.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>Archero</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
